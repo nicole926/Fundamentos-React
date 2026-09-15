@@ -1,4 +1,4 @@
-# Fundamentos-React
+<h1 align="center">Fundamentos React</h1>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40">
