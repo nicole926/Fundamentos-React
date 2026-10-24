@@ -4,6 +4,7 @@ import SayMyName from './components/SayMyName';
 import Pessoa from './components/Pessoa';
 import Lista from './components/List';
 import Tecnologias from './components/Tecnologias';
+import ListCelular2 from './components/ListCelular2';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Pessoa nome="Júlia" idade="20" profissao="Estudante" foto="https://example.com/foto.jpg" />
       <Lista />
       <Tecnologias />
+      <ListCelular2 />
     </div>
   );
 }
